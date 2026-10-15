@@ -1,0 +1,301 @@
+date,product_category,revenue,units_sold,region,customer_type
+2024-10-08,Home & Kitchen,45.91,2,South,New
+2025-07-12,Electronics,616.79,2,Central,Returning
+2024-08-26,Sports,53.04,1,Central,New
+2025-12-19,Sports,1302.47,4,West,New
+2024-01-07,Home & Kitchen,1832.65,5,West,New
+2024-12-10,Electronics,318.92,3,North,Returning
+2025-09-10,Fashion,2299.22,6,North,Returning
+2025-01-22,Electronics,876.45,2,Central,New
+2025-12-22,Electronics,1589.28,6,North,Returning
+2024-08-26,Electronics,2217.64,5,West,New
+2024-12-29,Home & Kitchen,499.45,6,East,Returning
+2024-06-24,Sports,557.6,2,South,New
+2025-10-17,Sports,911.66,7,South,Returning
+2024-02-02,Fashion,112.32,1,West,New
+2025-08-03,Fashion,1647.81,4,South,Returning
+2025-10-20,Beauty,2796.44,7,South,New
+2025-07-05,Fashion,1353.22,4,Central,Returning
+2024-05-21,Sports,1193.88,7,West,New
+2024-06-05,Home & Kitchen,389.16,1,West,Returning
+2025-04-24,Sports,1254.04,7,East,VIP
+2024-04-27,Sports,309.96,1,East,Returning
+2025-03-21,Home & Kitchen,365.16,6,West,New
+2024-07-01,Sports,2188.43,5,North,Returning
+2025-06-03,Sports,1903.26,5,South,New
+2025-06-27,Electronics,744.74,3,Central,New
+2025-01-06,Fashion,61.0,1,South,New
+2025-05-12,Electronics,99.03,2,Central,Returning
+2025-07-16,Home & Kitchen,902.91,3,East,Returning
+2025-07-06,Home & Kitchen,3040.74,7,East,Returning
+2025-06-13,Beauty,1223.33,6,North,New
+2025-08-25,Sports,320.16,2,South,Returning
+2025-10-08,Electronics,43.09,1,South,New
+2024-03-13,Sports,388.52,1,South,New
+2024-05-15,Sports,846.69,8,Central,Returning
+2024-07-13,Electronics,2925.47,8,North,Returning
+2025-04-23,Electronics,1185.16,6,North,New
+2024-04-21,Home & Kitchen,2175.96,6,South,New
+2024-07-06,Fashion,587.2,8,West,New
+2025-07-17,Electronics,412.18,2,North,Returning
+2024-08-30,Home & Kitchen,436.42,1,West,Returning
+2024-03-01,Home & Kitchen,1562.87,4,West,New
+2025-04-10,Fashion,897.11,7,West,Returning
+2024-10-30,Home & Kitchen,638.41,8,North,Returning
+2024-02-28,Electronics,339.61,1,Central,Returning
+2025-06-04,Electronics,110.74,3,South,New
+2024-08-28,Beauty,615.49,2,North,VIP
+2024-02-10,Sports,1062.27,4,North,Returning
+2024-07-28,Fashion,2528.41,6,South,New
+2024-11-03,Beauty,918.6,3,East,VIP
+2025-09-28,Sports,32.16,2,North,New
+2024-05-15,Fashion,934.31,4,North,Returning
+2025-03-24,Sports,820.95,6,East,Returning
+2025-07-21,Fashion,304.52,1,North,VIP
+2024-04-19,Sports,383.51,3,South,New
+2024-07-27,Fashion,1305.26,4,Central,Returning
+2025-03-09,Fashion,52.43,1,North,New
+2024-09-25,Home & Kitchen,873.17,3,West,Returning
+2024-04-24,Electronics,1803.74,7,South,Returning
+2024-05-31,Beauty,1602.84,6,South,New
+2024-02-10,Fashion,2434.52,6,South,Returning
+2025-07-27,Beauty,333.82,2,Central,Returning
+2024-06-30,Beauty,1562.79,4,North,New
+2025-02-25,Home & Kitchen,2128.11,6,East,New
+2024-02-09,Beauty,359.11,2,South,New
+2024-08-21,Home & Kitchen,1321.2,8,North,Returning
+2024-03-12,Fashion,1090.45,7,East,Returning
+2025-07-03,Fashion,2167.4,7,North,New
+2024-09-28,Electronics,451.06,5,North,Returning
+2024-11-17,Beauty,1986.62,6,Central,VIP
+2025-08-13,Home & Kitchen,361.43,2,East,New
+2025-07-05,Home & Kitchen,89.19,7,East,Returning
+2025-11-10,Electronics,1709.65,6,East,Returning
+2025-12-14,Fashion,1084.08,7,Central,New
+2025-01-23,Home & Kitchen,2122.67,7,Central,Returning
+2024-01-01,Fashion,1763.98,7,East,New
+2025-03-28,Home & Kitchen,1293.99,6,Central,Returning
+2024-10-17,Sports,901.73,3,Central,New
+2024-08-18,Home & Kitchen,1226.74,4,South,New
+2025-09-17,Electronics,1771.86,4,West,Returning
+2025-01-28,Beauty,1306.54,4,West,New
+2024-04-19,Beauty,402.99,1,South,New
+2024-09-12,Electronics,271.97,8,West,New
+2025-07-26,Sports,2435.19,8,East,VIP
+2025-05-31,Beauty,2242.73,8,Central,Returning
+2025-05-01,Beauty,1013.16,3,East,Returning
+2025-06-17,Beauty,1737.13,5,South,New
+2024-08-28,Fashion,649.07,2,East,New
+2024-08-24,Beauty,145.22,2,South,Returning
+2024-12-04,Sports,387.42,2,West,Returning
+2025-02-02,Sports,1507.23,4,North,Returning
+2024-12-26,Fashion,1546.42,7,West,Returning
+2025-07-13,Sports,1734.18,7,South,Returning
+2024-01-30,Beauty,1014.48,5,East,Returning
+2025-04-23,Home & Kitchen,2304.34,7,Central,Returning
+2025-11-09,Electronics,1898.74,7,North,Returning
+2024-07-05,Electronics,1175.04,3,East,Returning
+2024-12-11,Beauty,844.63,4,East,Returning
+2024-03-24,Beauty,857.46,7,North,Returning
+2024-12-24,Home & Kitchen,449.96,1,North,Returning
+2024-09-10,Home & Kitchen,342.35,1,North,Returning
+2025-11-16,Electronics,269.14,4,Central,VIP
+2025-01-12,Home & Kitchen,2546.93,8,Central,Returning
+2024-06-16,Fashion,705.35,2,North,Returning
+2025-01-19,Beauty,1320.99,5,South,New
+2024-11-04,Sports,226.53,4,North,Returning
+2025-03-14,Fashion,164.08,1,North,Returning
+2025-03-06,Beauty,105.25,6,North,Returning
+2025-04-15,Home & Kitchen,1742.32,6,West,New
+2025-07-05,Beauty,1408.85,5,West,Returning
+2024-09-08,Electronics,765.85,5,East,Returning
+2025-08-06,Sports,1362.83,4,West,New
+2024-07-05,Beauty,3077.74,8,South,Returning
+2025-09-02,Fashion,805.34,5,Central,New
+2025-02-20,Beauty,197.99,4,Central,Returning
+2025-05-17,Beauty,2359.24,8,North,New
+2024-09-06,Fashion,756.51,4,Central,Returning
+2025-07-17,Fashion,1190.22,6,East,Returning
+2024-08-24,Electronics,731.5,5,South,New
+2025-05-10,Fashion,287.68,3,Central,VIP
+2024-07-17,Fashion,2207.32,5,South,Returning
+2025-06-30,Home & Kitchen,90.98,5,East,New
+2025-12-15,Home & Kitchen,254.37,1,West,New
+2025-04-25,Beauty,263.44,1,West,New
+2025-05-04,Electronics,122.59,1,North,Returning
+2025-12-03,Electronics,529.47,2,South,New
+2024-09-11,Electronics,246.55,5,Central,Returning
+2025-01-24,Beauty,1407.02,4,West,New
+2025-09-27,Electronics,1020.3,7,Central,VIP
+2024-07-31,Home & Kitchen,854.09,2,East,Returning
+2025-07-19,Electronics,351.18,3,South,New
+2025-04-26,Fashion,2511.56,8,North,New
+2025-04-09,Electronics,1599.54,5,South,VIP
+2025-07-11,Home & Kitchen,792.84,4,South,VIP
+2024-06-18,Fashion,129.83,3,Central,Returning
+2025-04-24,Fashion,1021.75,5,West,VIP
+2025-09-04,Electronics,1629.91,8,West,Returning
+2024-08-22,Sports,116.64,5,Central,VIP
+2024-06-28,Beauty,1321.98,5,Central,Returning
+2025-08-22,Beauty,457.46,5,West,VIP
+2024-12-07,Fashion,1315.26,8,North,Returning
+2025-05-22,Fashion,1153.8,6,West,Returning
+2024-11-18,Fashion,211.21,1,East,New
+2024-01-02,Sports,2735.82,7,West,Returning
+2025-09-29,Beauty,956.31,4,West,Returning
+2024-05-14,Fashion,515.88,4,West,Returning
+2025-10-07,Sports,521.48,8,South,Returning
+2025-07-19,Beauty,1266.34,5,North,New
+2024-04-30,Home & Kitchen,428.23,2,West,VIP
+2024-10-06,Beauty,1174.43,5,West,VIP
+2024-05-28,Beauty,848.29,4,South,VIP
+2024-10-09,Beauty,1171.33,3,East,VIP
+2024-10-16,Fashion,1857.0,5,Central,Returning
+2025-04-02,Sports,3127.87,8,West,New
+2024-11-25,Home & Kitchen,1480.09,7,South,Returning
+2025-02-24,Electronics,1547.73,4,East,Returning
+2025-11-10,Home & Kitchen,1267.72,7,West,VIP
+2025-08-27,Fashion,696.01,3,North,Returning
+2025-04-12,Electronics,445.39,8,South,Returning
+2024-09-28,Fashion,134.32,3,Central,Returning
+2025-11-21,Sports,770.15,2,West,VIP
+2024-02-06,Sports,3152.83,8,North,New
+2024-04-02,Beauty,2244.36,5,North,Returning
+2025-12-11,Fashion,412.66,2,North,New
+2025-01-18,Beauty,140.5,1,South,New
+2024-07-03,Home & Kitchen,1819.14,7,South,New
+2024-09-03,Beauty,1984.03,7,Central,New
+2025-04-15,Fashion,2331.22,8,North,Returning
+2025-11-24,Sports,3253.84,8,South,New
+2024-11-02,Beauty,2667.55,6,East,Returning
+2025-01-28,Beauty,496.29,5,North,New
+2025-12-17,Fashion,1582.61,6,North,VIP
+2025-08-02,Electronics,925.56,7,Central,Returning
+2024-08-23,Sports,1758.87,5,East,New
+2025-11-25,Home & Kitchen,1135.8,4,North,VIP
+2025-03-27,Electronics,147.31,1,Central,Returning
+2024-10-29,Fashion,154.44,3,West,New
+2025-01-09,Sports,1069.48,3,Central,VIP
+2025-05-08,Fashion,373.66,3,East,Returning
+2024-05-24,Home & Kitchen,3469.98,8,West,VIP
+2025-02-08,Electronics,309.32,6,East,Returning
+2025-11-19,Fashion,1387.52,8,Central,Returning
+2024-08-27,Beauty,356.73,6,North,Returning
+2024-08-14,Electronics,2477.29,6,West,VIP
+2024-04-29,Home & Kitchen,1481.83,5,North,VIP
+2024-04-28,Electronics,2241.08,5,South,Returning
+2025-01-14,Sports,546.68,3,West,Returning
+2025-11-01,Electronics,1199.43,3,West,Returning
+2025-01-14,Home & Kitchen,131.65,5,West,Returning
+2024-04-11,Fashion,1546.75,4,Central,VIP
+2024-10-09,Home & Kitchen,231.13,6,North,VIP
+2024-08-05,Sports,417.22,8,North,New
+2024-05-08,Sports,712.1,6,South,New
+2024-08-26,Fashion,1075.34,4,South,Returning
+2024-05-28,Home & Kitchen,133.45,1,Central,New
+2024-01-27,Home & Kitchen,180.44,3,North,Returning
+2024-01-17,Home & Kitchen,1079.67,4,East,New
+2024-03-06,Beauty,1696.98,7,West,Returning
+2024-08-14,Sports,419.96,2,North,Returning
+2024-02-01,Electronics,1063.11,5,West,Returning
+2025-05-17,Beauty,2187.57,7,North,Returning
+2024-03-08,Home & Kitchen,1670.61,6,East,Returning
+2025-09-03,Sports,1073.02,6,East,Returning
+2025-12-19,Electronics,388.08,7,Central,Returning
+2024-08-21,Beauty,801.48,4,East,Returning
+2024-04-07,Fashion,1359.42,7,West,New
+2024-06-05,Beauty,879.72,5,North,New
+2024-04-08,Fashion,105.67,2,South,Returning
+2025-02-24,Fashion,1832.79,6,West,Returning
+2025-09-06,Fashion,436.16,1,East,New
+2025-05-08,Home & Kitchen,319.09,4,North,Returning
+2024-10-12,Sports,373.92,6,South,Returning
+2025-11-04,Fashion,278.74,1,North,New
+2024-12-25,Electronics,2078.17,5,South,Returning
+2025-10-10,Electronics,297.35,7,North,Returning
+2025-04-09,Fashion,707.09,4,South,Returning
+2025-08-04,Sports,2113.52,6,North,Returning
+2025-09-24,Electronics,242.84,3,North,New
+2025-03-28,Beauty,1573.04,7,East,New
+2024-04-23,Fashion,326.37,2,Central,Returning
+2025-02-08,Sports,159.46,5,North,New
+2024-05-20,Fashion,2130.26,5,East,New
+2025-03-16,Home & Kitchen,229.85,1,South,Returning
+2025-11-15,Fashion,924.46,4,North,Returning
+2025-04-15,Electronics,203.06,1,East,Returning
+2025-03-03,Fashion,2259.32,7,North,Returning
+2025-09-24,Beauty,523.68,6,East,New
+2025-08-26,Beauty,237.15,2,Central,New
+2024-08-14,Fashion,1693.31,5,South,New
+2024-07-17,Fashion,488.81,2,East,Returning
+2024-05-29,Fashion,346.46,3,South,New
+2025-11-02,Electronics,1034.92,3,South,VIP
+2025-07-31,Sports,1721.69,8,West,Returning
+2025-10-04,Fashion,2343.24,6,South,Returning
+2024-11-06,Fashion,1645.5,8,Central,New
+2025-04-07,Electronics,295.92,2,North,Returning
+2024-04-02,Sports,228.04,5,Central,Returning
+2024-02-12,Beauty,2129.47,8,Central,Returning
+2025-05-28,Home & Kitchen,1661.96,6,North,Returning
+2024-03-27,Sports,2653.71,6,South,New
+2025-06-20,Sports,3568.42,8,Central,New
+2025-01-31,Beauty,2484.34,6,East,Returning
+2025-10-24,Fashion,357.68,1,North,New
+2025-11-03,Sports,955.19,7,South,New
+2024-11-13,Beauty,1240.6,3,South,Returning
+2025-01-20,Fashion,295.19,2,South,Returning
+2025-03-09,Sports,589.92,2,East,New
+2024-08-07,Fashion,454.78,5,West,New
+2024-10-29,Electronics,239.6,3,Central,Returning
+2025-09-24,Home & Kitchen,301.93,1,Central,Returning
+2025-12-10,Sports,273.63,3,South,Returning
+2025-11-23,Home & Kitchen,191.96,1,West,Returning
+2024-09-01,Fashion,915.95,8,West,VIP
+2025-08-07,Beauty,692.46,4,West,Returning
+2025-03-04,Home & Kitchen,1625.91,7,South,Returning
+2024-02-23,Beauty,1183.12,3,East,Returning
+2025-06-12,Electronics,647.19,2,East,New
+2025-06-09,Home & Kitchen,394.45,3,West,New
+2024-12-23,Electronics,1478.86,4,West,New
+2024-03-24,Fashion,691.62,6,South,New
+2025-10-27,Fashion,759.12,2,South,New
+2025-04-28,Home & Kitchen,2069.1,5,West,Returning
+2024-01-20,Fashion,408.77,1,South,Returning
+2024-10-22,Home & Kitchen,424.9,7,East,New
+2025-09-29,Beauty,783.53,4,North,New
+2024-01-17,Sports,2186.97,8,Central,New
+2024-01-02,Sports,418.73,3,East,New
+2025-11-15,Electronics,658.3,7,Central,VIP
+2025-07-11,Sports,859.18,2,Central,Returning
+2024-02-14,Beauty,2761.63,7,East,New
+2024-03-10,Fashion,168.41,1,South,Returning
+2024-12-06,Home & Kitchen,699.84,2,North,Returning
+2024-06-28,Beauty,2209.9,6,West,Returning
+2025-04-13,Electronics,118.91,3,East,New
+2024-11-19,Fashion,1599.9,4,Central,Returning
+2025-10-24,Home & Kitchen,983.61,8,East,Returning
+2024-12-05,Fashion,391.22,1,North,Returning
+2025-03-26,Beauty,2811.17,7,East,VIP
+2025-01-11,Sports,2521.01,8,East,Returning
+2025-09-08,Home & Kitchen,325.99,7,Central,New
+2025-11-07,Fashion,94.14,2,East,Returning
+2025-03-30,Fashion,594.93,7,West,New
+2025-03-21,Fashion,1687.83,6,North,New
+2025-11-26,Home & Kitchen,1197.91,7,North,New
+2024-03-09,Home & Kitchen,217.94,8,East,Returning
+2025-11-26,Beauty,277.03,1,East,Returning
+2025-06-26,Fashion,526.76,2,West,New
+2024-04-26,Electronics,606.65,5,South,Returning
+2024-04-30,Fashion,2884.92,7,East,Returning
+2024-10-19,Beauty,1793.63,4,South,New
+2025-03-31,Electronics,419.99,2,East,Returning
+2024-10-24,Fashion,505.8,2,South,Returning
+2025-06-04,Home & Kitchen,1078.92,3,North,VIP
+2025-05-20,Electronics,347.07,3,East,Returning
+2025-07-18,Home & Kitchen,1300.34,6,Central,Returning
+2025-05-05,Sports,294.94,2,West,Returning
+2024-11-20,Electronics,133.79,2,West,Returning
+2025-07-18,Sports,409.26,6,South,Returning
+2024-02-26,Electronics,604.46,3,Central,New
+2025-12-27,Home & Kitchen,248.82,3,East,VIP
+2024-09-13,Home & Kitchen,1912.59,5,Central,New
